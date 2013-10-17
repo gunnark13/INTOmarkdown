@@ -35,4 +35,4 @@ Linkur að minni útgáfu af verkefninu - https://github.com/gunnark13/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Að vinna með markdown skjöl þykir mér ekkert ægilega spennandi, þetta minnir á LaTeX sem er ekki í miklu uppáhaldi, einfaldara þó.
