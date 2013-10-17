@@ -19,7 +19,7 @@ Að setja upp VIM og Git gekk mjög vel, fyrir utan það að ég er að lenda �
 Undur og stórmerki, þessi fyrri hluti verkefnisins kom mér mjög á óvart, ég vissi ekki að það væri svona auðvelt að breta um umhverfi í tölvunni hjá sér.  Ég notaði VirtualBox og Linux umhverfi.  Ég hef aldrei unnið á Linux umhverfi áður.  Þar sem ég er einn í hóp sköpuðust engin vandkvæði vegna 
 hópmeðlima.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Linkur að minni útgáfu af verkefninu - https://github.com/gunnark13/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
