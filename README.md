@@ -1,12 +1,14 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+
 - Gunnar Orri Kjartansson
-- 
+
 ## 1. Linux uppsetning
 
 Að setja upp Linux á virtual box var auðveldara og fljótlegra en ég hélt, ég lenti í smá vandræðum því ég vissi ekki að ég þyrfti að opna LinuxImage í RAR en ég fékk skjóta og góða aðstoð við það hjá samnemanda.
+ 
+![alt text](http://i42.tinypic.com/10wmutv.png "Logo Title Text 1")
 
 ## 2. Uppsetning á vim && git
 
@@ -21,7 +23,15 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Þrjú dæmi um OSS software eru teikniforritið Gimp, VLC skráaspilarinn og Firefox netvafrinn.
+
+- VLC source code - http://www.videolan.org/vlc/download-sources.html
+- VLC notar leyfi af gerðinni LGPL.
+- GIMP source code - http://www.gimp.org/source/
+- GIMP notar leyfi af gerðinni GPL.
+- Firefox source code - https://developer.mozilla.org/en-US/docs/Mozilla_Source_Code_Directory_Structure
+- Firefox notar leyfi af gerðinni MPL 2.0
+
 
 ## 5. Unnið með Git (2. hluti)
 
